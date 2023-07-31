@@ -1,14 +1,14 @@
 # Platform-Game
 
-Simple platform game using an LCD, button, and Arduino Mega 2560. When button is held, character will jump over obstacles. 
+Simple platform game using an LCD, button, and Arduino Mega 2560. When button is held, character will jump over obstacles.      
 
 
-**Hardware:**
--Arduino Mega 2560
--16x2 LCD Screen
--1 button
--10k Potentiometer
--Jumper wires
+**Hardware:**    
+-Arduino Mega 2560    
+-16x2 LCD Screen    
+-1 button    
+-10k Potentiometer    
+-Jumper wires     
 
 Wire Connection:
 |Arduino |  LCD  | Jump Button  | Potentiometer |
