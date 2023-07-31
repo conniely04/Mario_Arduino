@@ -9,6 +9,7 @@ Simple platform game using an LCD, button, and Arduino Mega 2560. When button is
 -1 button    
 -10k Potentiometer    
 -Jumper wires     
+   
 
 Wire Connection:
 |Arduino |  LCD  | Jump Button  | Potentiometer |
