@@ -11,7 +11,7 @@ Simple platform game using an LCD, button, and Arduino Mega 2560. When button is
 -Jumper wires     
    
 
-Wire Connection:
+**Wire Connection:**
 |Arduino |  LCD  | Jump Button  | Potentiometer |
 |--------|-------|--------------|---------------|
 |5V      |A      |              |Front Left     |
