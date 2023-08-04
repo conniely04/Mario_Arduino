@@ -15,7 +15,7 @@ Simple platform game using an LCD, button, and Arduino Mega 2560. When button is
 |Arduino |  LCD  | Jump Button  | Potentiometer |
 |--------|-------|--------------|---------------|
 |5V      |A      |              |Front Left     |
-|GND     |K      |Left          |Front Back     |
+|GND     |K      |Left          |Front Right     |
 |Digital Pin 2|  |Right         |               |
 |        |RS     |              |Back Leg       |
 |Digital Pin 7|VSS|             |               |
