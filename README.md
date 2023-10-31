@@ -1,4 +1,4 @@
-# Platform Game Using LCD And Adruino
+# Oiram Game Using LCD And Adruino
 
 Simple platform game using an LCD, button, and Arduino Mega 2560. When button is held, character will jump over obstacles.      
 
